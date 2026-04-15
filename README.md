@@ -34,7 +34,8 @@ Developed a high-end, interactive dashboard to visualize sales trends.
 Integrated ML-based future predictions into the visuals.
 Features include: Time-series analysis, regional sales performance, and product-wise forecasting filters.
 
-Technologies Used
+Technologies Used:
+
 Excel: Data Cleaning, Pivot Tables, DAX
 SQL: Data Querying & Management
 Python: Scikit-Learn, Pandas, NumPy (for ML)
