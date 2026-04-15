@@ -40,6 +40,3 @@ SQL: Data Querying & Management
 Python: Scikit-Learn, Pandas, NumPy (for ML)
 Power BI: Advanced Data Visualization
 
-Python: Scikit-Learn, Pandas, NumPy (for ML)
-
-Power BI: Advanced Data Visualization
